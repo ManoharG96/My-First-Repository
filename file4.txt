@@ -1,1 +1,2 @@
-after first commit second commit file 
+This is from.
+Changing the word Deleted the word manohar
